@@ -18,6 +18,9 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 # Whether Including Google Apps
 WITH_GAPPS := true
 
+# Maintainer Name
+INFINITY_MAINTAINER := "AnshAgnihotri"
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := infinity_larry
 PRODUCT_DEVICE := larry
