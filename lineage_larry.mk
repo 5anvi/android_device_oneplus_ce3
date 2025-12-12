@@ -15,9 +15,6 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit from larry device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
-# required by build system to set release string
-TARGET_RELEASE := lineage
-
 # Disable EPPE
 TARGET_DISABLE_EPPE := true
 
