@@ -26,7 +26,7 @@ AXION_CAMERA_REAR_INFO := 108, 2, 2
 AXION_CAMERA_FRONT_INFO := 16
 
 # Maintainer name (underscores become spaces in the UI)
-AXION_MAINTAINER := Ansh_Agnihotri
+AXION_MAINTAINER := Sanvi_jain
 
 # Processor name (underscores become spaces)
 AXION_PROCESSOR := Snapdragon_695_5G
